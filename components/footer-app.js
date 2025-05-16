@@ -39,7 +39,7 @@ class FooterApp extends HTMLElement {
       <footer>
         <div>© 2025 Aqui se encuentra el repositorio</div>
         <div class="redes">
-          <a href="https://github.com/tuusuario" target="_blank">GitHub</a>
+          <a href="https://github.com/jazambrano21/Laboratorio2.io/tree/main" target="_blank">GitHub</a>
         </div>
       </footer>
     `;
