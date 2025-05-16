@@ -1,4 +1,6 @@
 
+EJECUTAR CON LIVE SERVER
+
 Aquí detallo un poco como fnciona la pagina 
 
 Primero se puede navegar entre diferentes pantallas: Inicio, Registrar Producto, Lista de Productos y Acerca de.
